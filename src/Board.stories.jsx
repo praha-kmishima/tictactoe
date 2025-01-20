@@ -23,3 +23,11 @@ export const InProgress = {
     onPlay: () => console.log('played'),
   },
 }; 
+
+export const AllTriangles = {
+  args: {
+    xisNext: false,
+    squares: ['△', '△', '△', '△', '△', '△', '△', '△', '△'],
+    onPlay: () => console.log('played'),
+  },
+}; 

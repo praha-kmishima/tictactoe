@@ -3,5 +3,3 @@
 tictactoeのサンプル
 
 `npm run start`で起動
-
-test

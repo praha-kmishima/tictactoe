@@ -1,4 +1,6 @@
 /** @type { import('@storybook/react').Preview } */
+import '../src/styles.css';  // あなたのCSSファイルへのパスに変更してください
+
 const preview = {
   parameters: {
     controls: {
